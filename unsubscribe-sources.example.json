@@ -1,0 +1,13 @@
+{
+  "targets": [
+    "https://t.me/example_channel",
+    "https://t.me/+exampleInviteHash",
+    "tg://folder?id=7"
+  ],
+  "settings": {
+    "threads": 3,
+    "delay_from_sec": 8,
+    "delay_to_sec": 15,
+    "max_unsubs_per_account": 12
+  }
+}
